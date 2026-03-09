@@ -1,7 +1,7 @@
 # TransGeoCLIP
 
 This is the code repository for the paper "When Vision Misleads, Let Location Speak: A Worldwide Image Geo-Localization Method via Location Attention Mechanism and Large Multimodal Models"
-
+The full code and data will be released after the manuscript is accepted.
 ## Environment
 
 ```python
@@ -26,9 +26,18 @@ In addition, you can find the original image of the TwinBuilds dataset in the da
 ## Running samples
 
 1.Training model
-
+```python
+python Training.py
+```
 2.Building index
-
+```python
+python Building.py
+```
 3.Initial retrieval
-
+```python
+python Building.py
+```
 4.lmms retrieval
+```python
+python lmms.py
+```
