@@ -1,7 +1,9 @@
 # TransGeoCLIP
 
 This is the code repository for the paper "When Vision Misleads, Let Location Speak: A Worldwide Image Geo-Localization Method via Location Attention Mechanism and Large Multimodal Models"
-The full code and data will be released after the manuscript is accepted.
+
+**The full code and data will be released after the manuscript is accepted.**
+
 ## Environment
 
 ```python
